@@ -7,5 +7,5 @@ Description:
 
 CHANGE LOG:
 
-    Version: 0.1:
+    Version: 1.0.0:
     . Creation of the Node.js HTTP server listening on port 8881
