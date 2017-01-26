@@ -1,0 +1,29 @@
+{
+  "name": "teauserview",
+  "version": "1.0.0",
+  "description": "Web Service intercepting TL sessions",
+  "main": "webservice.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "is-json": "^2.0.1",
+    "stringify-object": "^3.1.0",
+    "strip-outer-parens": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node webservice.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TeaUserView"
+  },
+  "keywords": [
+    "Tealeaf",
+    "Node",
+    "js",
+    "sessions"
+  ],
+  "author": "Stephane Gennai",
+  "license": "ISC"
+}
