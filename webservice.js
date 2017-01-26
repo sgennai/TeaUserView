@@ -8,7 +8,7 @@ var bodyParser = require('body-parser');
 var stringifyObject = require('stringify-object');
 var stripOuterParens = require('strip-outer-parens');
 var isJSON = require('is-json');
-var cfenv = require("cfenv");
+var cfenv = require('cfenv');
 
 // Initialization
 app.use(bodyParser.urlencoded({ extended: true }));
