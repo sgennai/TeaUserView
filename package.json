@@ -8,7 +8,8 @@
     "express": "^4.14.0",
     "is-json": "^2.0.1",
     "stringify-object": "^3.1.0",
-    "strip-outer-parens": "^0.1.2"
+    "strip-outer-parens": "^0.1.2",
+    "cfenv": "1.0.x"
   },
   "devDependencies": {},
   "scripts": {
